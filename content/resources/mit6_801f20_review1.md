@@ -9,6 +9,5 @@ parent_title: Quizzes
 parent_type: CourseSection
 resourcetype: Document
 title: 6.801 / 6.866 Machine Vision, Quiz 1 Review
-type: OCWFile
 uid: 0099e324-ff9b-880b-73bd-006d59ca4876
 ---
