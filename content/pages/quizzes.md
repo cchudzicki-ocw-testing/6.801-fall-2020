@@ -12,7 +12,7 @@ There are two take-home quizzes for _6.801 / 6.866 Machine Vision_. For graduate
 Quiz Reviews
 ------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 0099e324-ff9b-880b-73bd-006d59ca4876 "Quiz 1 Review (PDF)" %}}
+{{% resource_link 0099e324-ff9b-880b-73bd-006d59ca4876 "Quiz 1 Review (PDF)" %}}
 
 {{% resource_link 3ed9a6b6-3fdb-a13e-cbc2-1f423953b85f "Quiz 2 Review (PDF)" %}}
 
