@@ -13,8 +13,8 @@ Homework assignments are due the week after they are assigned.
 
 {{% resource_link 480e8d08-33ac-9552-ee07-1d15319ef2cf "Homework 2 (PDF)" %}}: Assigned on Week 3
 
-[Homework 3 (PDF)]({{< baseurl >}}/resources/mit6_801f20_hw3): Assigned on Week 5
+{{% resource_link "48f8beaf-1ec2-4b13-4f10-d91fc10b40e4" "Homework 3 (PDF)" %}}: Assigned on Week 5
 
-[Homework 4 (PDF)]({{< baseurl >}}/resources/mit6_801f20_hw4): Assigned on Week 9
+{{% resource_link "910c933c-8b46-a3a3-c8c0-ff804b1514c7" "Homework 4 (PDF)" %}}: Assigned on Week 9
 
 {{% resource_link 9ff064d1-c944-de62-cb89-6e7c9d9571db "Homework 5 (PDF)" %}}: Assigned on Week 11

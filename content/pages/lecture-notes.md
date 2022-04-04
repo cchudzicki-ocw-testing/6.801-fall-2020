@@ -7,7 +7,7 @@ title: Lecture Notes
 uid: 08febb1f-ebe2-9c29-04c1-e6e024b1a469
 ---
 
-Lecture notes are provided below. You can also access all the [lecture notes as one file (PDF - 3.5MB)]({{< baseurl >}}/resources/mit6_801f20_lecturenotes). 
+Lecture notes are provided below. You can also access all the {{% resource_link "9ec44f69-e729-95c3-70b3-797818ba01e6" "lecture notes as one file (PDF - 3.5MB)" %}}. 
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -36,7 +36,7 @@ No lecture notes
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 2: Image Formation, Perspective Projection, Time Derivative, Motion Field (PDF)]({{< baseurl >}}/resources/mit6_801f20_lec2)
+{{% resource_link "5546a6b8-d36a-2d99-7929-ba1aeb8c5ed3" "Lecture 2: Image Formation, Perspective Projection, Time Derivative, Motion Field (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +189,7 @@ No lecture notes
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 19: Absolute Orientation in Closed Form, Outliers and Robustness, RANSAC (PDF)]({{< baseurl >}}/resources/mit6_801f20_lec19)
+{{% resource_link "3684c952-9d76-a9a8-7fe3-db7ae5e91f71" "Lecture 19: Absolute Orientation in Closed Form, Outliers and Robustness, RANSAC (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
