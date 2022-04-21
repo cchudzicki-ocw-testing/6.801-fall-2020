@@ -30,3 +30,4 @@ videos:
   - f1ae1d33-75c4-4ffd-aed8-42631a65fd71
   website: 6-801-machine-vision-fall-2020
 ---
+This page contains the lecture videos from 2018, which students were asked to watch before class.
