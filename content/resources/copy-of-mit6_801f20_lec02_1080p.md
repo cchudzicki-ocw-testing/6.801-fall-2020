@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-801-machine-vision-fall-2020/mit6_801f20_lec18_1080p_360p_16_9.mp4
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/gdrive_uploads/6-801-machine-vision-fall-2020/1lEg3fkF2lBNeEjV_GC8lFKUsBed3Kh2M/copy-of-mit6_801f20_lec02_1080p.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -12,15 +12,15 @@ image_metadata:
 learning_resource_types: []
 license: ''
 resourcetype: Video
-title: MIT6_801F20_lec18_1080p.mp4
-uid: 9f0ab624-aa10-41fa-a010-38bf4c06b4cf
+title: Copy of MIT6_801F20_lec02_1080p.mp4
+uid: d01b1d92-f678-4611-b5f6-18ed52fb0012
 video_files:
   video_captions_file: ''
-  video_thumbnail_file: https://img.youtube.com/vi/uiG6KY0Cqd8/default.jpg
+  video_thumbnail_file: ''
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: uiG6KY0Cqd8
+  youtube_id: ''
 ---
