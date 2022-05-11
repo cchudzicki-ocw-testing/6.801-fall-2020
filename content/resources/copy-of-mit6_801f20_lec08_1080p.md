@@ -16,11 +16,11 @@ title: Copy of MIT6_801F20_lec08_1080p.mp4
 uid: 44d3367a-80c9-49af-89d5-878a0ed1cf4c
 video_files:
   video_captions_file: ''
-  video_thumbnail_file: ''
+  video_thumbnail_file: https://img.youtube.com/vi/LP7z6vVmnms/default.jpg
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: ''
+  youtube_id: LP7z6vVmnms
 ---

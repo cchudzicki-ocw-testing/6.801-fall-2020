@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/gdrive_uploads/6-801-machine-vision-fall-2020/1e5_V5PnzxOTHJqG0-vmQvYcwfijIOJc-/copy-of-mit6_801f20_lec06_1080p.mp4
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-801-machine-vision-fall-2020/copy-of-mit6_801f20_lec06_1080p_360p_16_9.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
