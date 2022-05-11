@@ -15,9 +15,9 @@ resourcetype: Video
 title: Copy of MIT6_801F20_lec07_1080p.mp4
 uid: 817477c6-f222-40cf-94d6-0a74d4019c54
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/6-801-machine-vision-fall-2020/1DEemmWvOHGWZxH9jlygo_taQ7GB0iRun_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/qqtEQsBjh28/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/6-801-machine-vision-fall-2020/1DEemmWvOHGWZxH9jlygo_taQ7GB0iRun_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: ''
