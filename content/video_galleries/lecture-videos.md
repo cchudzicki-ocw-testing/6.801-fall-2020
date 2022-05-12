@@ -1,6 +1,6 @@
 ---
 content_type: video_gallery
-draft: true
+draft: false
 title: Lecture Videos
 uid: da9cfb8b-4fc4-422b-b2a2-47ffcf648bf2
 videos:
