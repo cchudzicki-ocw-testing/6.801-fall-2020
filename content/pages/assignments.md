@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This page contains the homework assignments for 6.801 / 8.866 Machine
+  Vision. '
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
